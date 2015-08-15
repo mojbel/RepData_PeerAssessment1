@@ -2,6 +2,7 @@
 ### Reproducible Research: Peer Assessment 1
 #### Mojbel
 
+echo = TRUE
 
 ## Downloading & Loading Data
 
